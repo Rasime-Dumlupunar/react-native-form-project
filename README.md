@@ -38,4 +38,8 @@ Bu proje, form yönetimi, doğrulama ve UI bileşenlerini kullanarak kullanıcı
 - **UI Bileşenleri**: @ui-kitten/components ve @eva-design/eva ile stilize edilmiş, özelleştirilmiş giriş alanları, geçiş düğmesi ve kaydet düğmesi.
 - **Hata Yönetimi**: Zorunlu alanlar ve geçersiz girişler için kullanıcı dostu hata mesajları.
 - **Form Gönderimi**: Form verilerini bir uyarı penceresi olarak gösterme (veya backend ile entegrasyon yapılabilir).
+
+  
 # react-native-form-project
+
+![](https://github.com/Rasime-Dumlupunar/react-native-form-project/blob/main/formik-yup.gif)
